@@ -1,0 +1,39 @@
+::-webkit-scrollbar {
+
+  	width: 	5px;
+  	height: 0px;
+
+}
+
+::-webkit-scrollbar-track {
+
+  	background: transparent;
+
+}
+
+::-webkit-scrollbar-thumb {
+
+ 	background: #4193f2;
+
+}
+
+.btn {
+	background: transparent;
+	box-shadow: none;
+}
+
+.btn:hover {
+	background: transparent;
+	box-shadow: none;
+}
+
+body {
+	background-image: url(../img/fundo.jpg);
+}
+
+#carddiv {
+	position: relative;
+	width: 300px;
+	left: 50px;
+	top: 50px;
+}
